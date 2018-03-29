@@ -4,4 +4,8 @@ ggplot(diamonds,aes(x=cut))+
   geom_bar()+
   geom_line()
 
-houxinyi hahaha
+houxinyi hahahafds
+
+dsfsdf
+dsfsad
+dsf
